@@ -20,11 +20,19 @@
 </div>
 <div align="left">
   <h2> 🧑‍💻 Contact me </h2>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wee8w8@gmail.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white" />
+
+  <a href="https://velog.io/@cherish_coding/posts" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+
+  <a href="" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  </a>
+
+  <a href="mailto:wee8w8@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
 </div>
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=choyekyo)](https://git.io/streak-stats)
 
